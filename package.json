@@ -1,0 +1,22 @@
+{
+  "name": "constructor_hangman",
+  "version": "1.0.0",
+  "description": "console hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jashans12/constructor_hangman.git"
+  },
+  "author": "Jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jashans12/constructor_hangman/issues"
+  },
+  "homepage": "https://github.com/jashans12/constructor_hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
